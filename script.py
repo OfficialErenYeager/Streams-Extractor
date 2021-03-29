@@ -7,13 +7,13 @@ class Script(object):
 
     START_MSG = """<b>Hello {},
 
-I can extract audio and subtitles from video files.
+I am a subtitle and audio extractor bot made by Armin Arlert.
 
 Send me any video file and extract what you want :).
 
 See <i>help</i> for more details.
 
-© @TroJanzHEX</b>"""
+© @subtitleextractor</b>"""
 
 
     HELP_MSG = """<b>Hai, Follow these Steps..</b>
@@ -26,12 +26,12 @@ See <i>help</i> for more details.
 
 🌀 <i>Now select the stream you need to extract!</i>
 
-<b>© @TroJanzHEX</b>"""
+<b>© @subtitleextractor</b>"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : Streams Extractor Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @arminarlert898    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
